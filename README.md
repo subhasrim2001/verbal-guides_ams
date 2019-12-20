@@ -1,3 +1,3 @@
 # verbal-guides_ams
 
-dummy code
+//dummy code
